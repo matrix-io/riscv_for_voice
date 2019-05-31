@@ -1,0 +1,6 @@
+[submodule "VexRiscv"]
+	path = VexRiscv
+	url = https://github.com/SpinalHDL/VexRiscv.git
+[submodule "matrix-voice-fpga"]
+	path = matrix-voice-fpga
+	url = git@github.com:matrix-io/matrix-voice-fpga.git
